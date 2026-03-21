@@ -29,12 +29,7 @@
 "image": "https://logos.flamingtext.com/Word-Logos/series-design-stripes-name.gif",
 "author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™️",
 "url": "https://raw.githubusercontent.com/tiriti1/tiri/main/TIRI_series.w3u#.m3u"
-    },
-{"name": "🔄 ACEX𝕄𝕃ℙ𝕃𝔸™",
-"author": "ʙʏ Tintxi Tintxi™",
-"image": "https://i.postimg.cc/D0sSXwHL/logo1-22-1156.png",
-"url": "https://acexmlpla-y-lo-sabes.pages.dev/",
-"embed": true },	
+    },	
 {"name": "📺 𝑻𝑫𝑻 𝑪𝒉𝒂𝒏𝒏𝒆𝒍𝒔",
 "author": "TDThannels™",
 "image": "https://github.com/tiriti1/tiri/blob/main/IMG_20250129_211427.jpg?raw=true",
@@ -49,7 +44,17 @@
 "author": "𝓑𝓎 𝐓𝐈𝐑𝐈🅃🅅™",
 "image": "https://img.freepik.com/fotos-premium/radio-antigua-anos-80-90-colores-retro-fondo-ia-generativa_803320-237.jpg",
 "url": "https://raw.githubusercontent.com/tirimosqui2/mlpla/refs/heads/main/radio.m3u#.m3u"
-    },
+    },	
+{"name": "🔄 ACEX𝕄𝕃ℙ𝕃𝔸™",
+"image": "https://i.postimg.cc/D0sSXwHL/logo1-22-1156.png",
+"author": "ʙʏ Tintxi Tintxi™",
+"stations": [
+{
+"name": "Entra En ACEX",
+"image": "https://i.postimg.cc/D0sSXwHL/logo1-22-1156.png",
+"url": "https://acexmlpla-y-lo-sabes.pages.dev",
+"embed": "true" },
+]},		
 {"name": "☎ 𝐓𝐋𝐅 𝐄𝐌𝐄𝐑𝐆𝐄𝐍𝐂𝐈𝐀𝐒",
 "image" : "https://www.autolesion.com/wp-content/uploads/2011/07/Telefono-300x300.gif",
 "author": "ᵇʸ 𝐓𝐈𝐑𝐈🅃🅅™", 
